@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psicologia Obscura e Manipulação</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#introducao">Introdução</a></li>
+                <li><a href="#historia">História</a></li>
+                <li><a href="#exemplos">Exemplos</a></li>
+                <li><a href="#conclusao">Conclusão</a></li>
+            </ul>
+        </nav>
+        <h1>Psicologia Obscura e Manipulação</h1>
+        <p>Explorando os mecanismos da mente humana e como as técnicas de manipulação têm sido utilizadas ao longo da história.</p>
+    </header>
+
+    <section id="introducao">
+        <h2>O que é Psicologia Obscura?</h2>
+        <p>A psicologia obscura refere-se ao estudo das técnicas e estratégias de manipulação mental que afetam o comportamento e as decisões humanas de maneira sutil e frequentemente imperceptível. Muitos dos métodos abordados nesse campo são usados para manipular pessoas em diferentes contextos, seja em relacionamentos pessoais ou em cenários de poder e controle.</p>
+    </section>
+
+    <section id="historia">
+        <h2>História da Manipulação Psicológica</h2>
+        <p>A manipulação psicológica não é um conceito novo. Ao longo da história, líderes políticos, religiosos e sociais utilizaram esses métodos para controlar massas e indivíduos. Um exemplo notável é a utilização da propaganda durante a Segunda Guerra Mundial para manipular a opinião pública, ou as técnicas de lavagem cerebral usadas em regimes totalitários.</p>
+    </section>
+
+    <section id="exemplos">
+        <h2>Exemplos de Técnicas de Manipulação</h2>
+        <ul>
+            <li><strong>Gaslighting:</strong> Uma técnica onde o manipulador distorce a realidade para fazer a vítima duvidar de sua própria percepção.</li>
+            <li><strong>Isolamento:</strong> O manipulador tenta isolar a pessoa de suas redes de apoio para aumentar o controle sobre ela.</li>
+            <li><strong>Culpa e vergonha:</strong> O manipulador utiliza a culpa e a vergonha como ferramentas para controlar o comportamento da vítima.</li>
+        </ul>
+    </section>
+
+    <section id="conclusao">
+        <h2>Reflexões Finais</h2>
+        <p>A psicologia obscura pode ser extremamente poderosa e, muitas vezes, é usada de maneira invisível. Entender essas técnicas é essencial para que possamos nos proteger e identificar quando estamos sendo manipulados, seja em nossas vidas pessoais ou em influências externas. A conscientização é a chave para não cair nas armadilhas da manipulação psicológica.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Psicologia Obscura. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
